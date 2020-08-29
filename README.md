@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Know more about me here! - https://rushirajsherlocked.github.io/#/ 
+
 <!--
 **rushirajsherlocked/rushirajsherlocked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
