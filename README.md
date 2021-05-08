@@ -2,6 +2,8 @@
 
 Know more about me here :) - https://rushirajsherlocked.github.io/#/ 
 
+I work as a Computer Vision Engineer at Vectorly and 🔭 I’m currently working on projects related to Computer Vision & Deep Learning
+
 <!--
 **rushirajsherlocked/rushirajsherlocked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
