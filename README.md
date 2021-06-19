@@ -8,7 +8,7 @@ I work as a Computer Vision Engineer at Vectorly and .....
 
 🌱 I’m currently learning Vision Transformers and some SOTA approaches for Unsupervised/Semi-Supervised learning in my me-time!
 
-📫 How to reach me: LinkedIn would be better :) https://www.linkedin.com/in/rushirajsinhparmar/
+📫 How to reach me: LinkedIn :) https://www.linkedin.com/in/rushirajsinhparmar/
 
 
 <!--
