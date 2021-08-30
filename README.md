@@ -2,17 +2,20 @@
 
 ### Hello there 👋 I'm Rushiraj
 
+<p> <a href="https://www.linkedin.com/in/rushirajsinhparmar/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>    
+
 Know more about me here :) - https://rushirajsherlocked.github.io/#/ 
 
+About me :rocket:  
+  
 I work as a Computer Vision Engineer at Vectorly and .....
 
 🔭 I’m currently working on projects related to Computer Vision & Deep Learning.
 
 🌱 I’m currently learning Vision Transformersm, Adversial Attack/Defense and some SOTA approaches for Unsupervised/Semi-Supervised learning in my me-time!
 
-📫 How to reach me: LinkedIn :) https://www.linkedin.com/in/rushirajsinhparmar/
 
-
+[![Francesco's github stats](https://github-readme-stats.vercel.app/api?username=rushirajsherlocked)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
