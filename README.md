@@ -8,7 +8,7 @@ I work as a Computer Vision Engineer at Vectorly and .....
 
 🔭 I’m currently working on projects related to Computer Vision & Deep Learning.
 
-🌱 I’m currently learning Vision Transformers and some SOTA approaches for Unsupervised/Semi-Supervised learning in my me-time!
+🌱 I’m currently learning Vision Transformersm, Adversial Attack/Defense and some SOTA approaches for Unsupervised/Semi-Supervised learning in my me-time!
 
 📫 How to reach me: LinkedIn :) https://www.linkedin.com/in/rushirajsinhparmar/
 
