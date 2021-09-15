@@ -12,7 +12,7 @@ I work as a Computer Vision Engineer at Vectorly and .....
 
 🔭 I’m currently working on projects related to Computer Vision & Deep Learning.
 
-🌱 I’m currently learning Vision Transformersm, Adversial Attack/Defense and some SOTA approaches for Unsupervised/Semi-Supervised learning in my me-time!
+🌱 I’m currently working on Bayesian Learning, Vision Transformersm, Adversial Attack/Defense and some SOTA approaches for Unsupervised/Semi-Supervised learning in my me-time!
 
 
 [![Francesco's github stats](https://github-readme-stats.vercel.app/api?username=rushirajsherlocked)](https://github.com/anuraghazra/github-readme-stats)
